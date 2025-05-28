@@ -1,0 +1,4 @@
+tkinterdnd2
+keyboard
+google-generativeai
+python-dotenv
