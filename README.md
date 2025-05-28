@@ -22,7 +22,7 @@ A simple Python desktop tool that allows you to **drag and drop text**, query Go
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/gemini-dragdrop-assistant.git
+git clone https://github.com/techbire/gemini-dragdrop-assistant.git
 cd gemini-dragdrop-assistant
 ````
 
