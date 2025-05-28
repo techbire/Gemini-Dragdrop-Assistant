@@ -66,17 +66,3 @@ pip install tkinterdnd2 keyboard python-dotenv google-generativeai
 2. Drop some text (MCQ, prompt, question).
 3. Hit `Ctrl+X` to get Gemini's direct answer.
 4. Use `Ctrl+C` to close all windows.
-
----
-
-## 🛡️ Security
-
-Make sure to keep your `.env` file private and **never commit API keys** to public repositories.
-
----
-
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) file for details.
-
-```
