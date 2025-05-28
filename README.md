@@ -1,8 +1,4 @@
-Here's your complete `README.md` file content with all parts formatted correctly **in Markdown**, including inline code blocks and syntax highlighting where appropriate:
 
----
-
-````markdown
 # Gemini Drag & Drop Assistant 🧠✨
 
 A simple Python desktop tool that allows you to **drag and drop text**, query Google's **Gemini AI**, and get direct answers using keyboard shortcuts.
@@ -83,9 +79,4 @@ Make sure to keep your `.env` file private and **never commit API keys** to publ
 
 MIT License. See [LICENSE](LICENSE) file for details.
 
-```
-
----
-
-You can now save this as `README.md` inside your project folder. Let me know if you want badges, screenshots, or GitHub Actions setup too!
 ```
